@@ -1,0 +1,11 @@
+E:\PTUDDesktop\On_tap\OnTap\OnTap\bin\Debug\OnTap.exe.config
+E:\PTUDDesktop\On_tap\OnTap\OnTap\bin\Debug\OnTap.exe
+E:\PTUDDesktop\On_tap\OnTap\OnTap\bin\Debug\OnTap.pdb
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.csproj.SuggestedBindingRedirects.cache
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.frmQLBHang.resources
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.Properties.Resources.resources
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.csproj.GenerateResource.cache
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.exe
+E:\PTUDDesktop\On_tap\OnTap\OnTap\obj\Debug\OnTap.pdb

@@ -1,0 +1,31 @@
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\bin\Debug\Lab05.exe.config
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\bin\Debug\Lab05.exe
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\bin\Debug\Lab05.pdb
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.InformationForm.resources
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.StudentJsonForm.resources
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.exe
+E:\Phát triển ứng dụng desktop\Lab05\Lab05\obj\Debug\Lab05.pdb
+E:\PTUDDesktop\Lab05\Lab05\bin\Debug\Lab05.exe.config
+E:\PTUDDesktop\Lab05\Lab05\bin\Debug\Lab05.exe
+E:\PTUDDesktop\Lab05\Lab05\bin\Debug\Lab05.pdb
+E:\PTUDDesktop\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+E:\PTUDDesktop\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.InformationForm.resources
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.StudentJsonForm.resources
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.exe
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.pdb
+E:\PTUDDesktop\Lab05\Lab05\obj\Debug\Lab05.SearchForm.resources

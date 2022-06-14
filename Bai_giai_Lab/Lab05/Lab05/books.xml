@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+	<book ISBN="12435678" yearpublished="2002">
+		<title>A programmer's Guide to ADO .Net using C#</title>
+		<author>
+			<first-name>Mahesh</first-name>
+			<last-name>Chand</last-name>
+		</author>
+		<publisher>Apress</publisher>
+		<price>44.99</price>
+	</book>
+
+	<book ISBN="973527147623" yearpublished="2010">
+		<title>Pro Entity Framework Core 2</title>
+		<author>
+			<first-name>Adam</first-name>
+			<last-name>Frerman</last-name>
+		</author>
+		<published>Apress</published>
+		<price>45.09</price>
+	</book>
+</catalog>

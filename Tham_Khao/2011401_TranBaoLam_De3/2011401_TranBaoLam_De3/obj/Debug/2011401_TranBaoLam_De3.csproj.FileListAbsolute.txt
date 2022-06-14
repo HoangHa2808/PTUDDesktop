@@ -1,0 +1,11 @@
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\bin\Debug\2011401_TranBaoLam_De3.exe.config
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\bin\Debug\2011401_TranBaoLam_De3.exe
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\bin\Debug\2011401_TranBaoLam_De3.pdb
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.csproj.AssemblyReference.cache
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.csproj.SuggestedBindingRedirects.cache
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\_2011401_TranBaoLam_De3.ManagementForm.resources
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\_2011401_TranBaoLam_De3.Properties.Resources.resources
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.csproj.GenerateResource.cache
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.csproj.CoreCompileInputs.cache
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.exe
+D:\Study\Desktop\Labs\2011401_TranBaoLam_De3\2011401_TranBaoLam_De3\obj\Debug\2011401_TranBaoLam_De3.pdb

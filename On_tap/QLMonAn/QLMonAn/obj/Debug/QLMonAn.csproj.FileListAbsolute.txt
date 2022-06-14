@@ -1,0 +1,13 @@
+D:\Nga-Phan\Project\DatabaseProgramming\QLMonAn\QLMonAn\bin\Debug\QLMonAn.exe.config
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\bin\Debug\QLMonAn.exe.config
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\bin\Debug\QLMonAn.exe
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\bin\Debug\QLMonAn.pdb
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.csproj.AssemblyReference.cache
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.csproj.SuggestedBindingRedirects.cache
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.AdminForm.resources
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.FoodForm.resources
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.Properties.Resources.resources
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.csproj.GenerateResource.cache
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.csproj.CoreCompileInputs.cache
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.exe
+E:\PTUDDesktop\On_tap\QLMonAn\QLMonAn\obj\Debug\QLMonAn.pdb

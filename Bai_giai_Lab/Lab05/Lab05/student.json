@@ -1,0 +1,19 @@
+﻿{
+	"sinhvien": [
+		{
+			"MSSV": "2146378",
+			"hoten": "Đoàn Cao Nhật Hạ",
+			"tuoi": "19",
+			"diem": 8.5,
+			"tongiao": false
+		},
+
+		{
+			"MSSV": "2149578",
+			"hoten": "Hoàng Thanh Hà",
+			"tuoi": "19",
+			"diem": 8.4,
+			"tongiao": false
+		}
+	]
+}

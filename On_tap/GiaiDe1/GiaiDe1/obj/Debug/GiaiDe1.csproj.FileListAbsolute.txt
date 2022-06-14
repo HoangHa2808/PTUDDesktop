@@ -1,0 +1,12 @@
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\bin\Debug\GiaiDe1.exe.config
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\bin\Debug\GiaiDe1.exe
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\bin\Debug\GiaiDe1.pdb
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.csproj.AssemblyReference.cache
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.csproj.SuggestedBindingRedirects.cache
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.frmQLBHang.resources
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.frmQLKHang.resources
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.Properties.Resources.resources
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.csproj.GenerateResource.cache
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.csproj.CoreCompileInputs.cache
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.exe
+E:\PTUDDesktop\On_tap\GiaiDe1\GiaiDe1\obj\Debug\GiaiDe1.pdb
